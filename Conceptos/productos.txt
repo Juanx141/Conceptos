@@ -1,0 +1,10 @@
+IDProducto1;NombreProducto1;56
+IDProducto2;NombreProducto2;53
+IDProducto3;NombreProducto3;24
+IDProducto4;NombreProducto4;88
+IDProducto5;NombreProducto5;66
+IDProducto6;NombreProducto6;73
+IDProducto7;NombreProducto7;36
+IDProducto8;NombreProducto8;37
+IDProducto9;NombreProducto9;11
+IDProducto10;NombreProducto10;52

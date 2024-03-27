@@ -1,0 +1,10 @@
+TI;6991144;Carlos;Perez
+CC;7686247;Diego;Bretaña
+CC;9747767;Juan;Martinez
+CC;7614645;Josefin;Lopez
+TI;5328456;Esperancita;Lopez
+TI;8991767;Diego;Martinez
+CE;6861291;Carlos;Perez
+TI;5438883;Markitoz;Perez
+CE;4178062;Juan;Perez
+TI;9476201;Josefin;Rodriguez
