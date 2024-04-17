@@ -69,6 +69,7 @@ public class GenerateIntoFiles {
     }
 
     public static void main(String[] args) {
+    	
         createSalesMenFile(10, "Vendedor1", 123456789);
         createProductsFile(10);
         createSalesManInfoFile(10);

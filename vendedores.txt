@@ -1,0 +1,10 @@
+TI;8168836;Markitoz;Perez
+TI;4242673;Diego;Perez
+CC;8700548;Luis;Martinez
+CE;3727651;Josefin;Martinez
+CE;2825386;Juan;Rodriguez
+CC;4004135;Carlos;Martinez
+CE;4250287;Carlos;Perez
+TI;2442907;Markitoz;Martinez
+TI;6290915;Luis;Lopez
+CE;8598676;Carlos;Perez
