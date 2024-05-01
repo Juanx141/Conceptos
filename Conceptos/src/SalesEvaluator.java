@@ -38,13 +38,13 @@ public class SalesEvaluator {
                             int sales = Integer.parseInt(parts[1].trim());
                             salesCount.put(currentVendor, salesCount.get(currentVendor) + sales);
                         } catch (NumberFormatException e) {
-                            System.out.println("Skipping non-integer quantity: " + parts[1]);
+                            System.out.println("Saltando espacios en blanco o con este texto: " + parts[1]);
                         }
                     }
                 }
             }
         } catch (IOException e) {
-            System.out.println("Error reading file: " + e.getMessage());
+            System.out.println("Error: " + e.getMessage());
         }
     }
 
