@@ -67,7 +67,7 @@ public class SalesEvaluator {
     }
 
     public static void main(String[] args) {
-        String filename = "ventas.txt"; // Hard-coded filename
+        String filename = "Vendedor1_123456789.txt"; 
         SalesEvaluator evaluator = new SalesEvaluator();
         evaluator.evaluateSalesFromFile(filename);
 
